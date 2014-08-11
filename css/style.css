@@ -1,0 +1,12 @@
+h2, div {
+  display: inline-block;
+  padding: 20px;
+}
+
+div {
+  border: 1px solid #ccc;
+}
+
+h2 {
+  border: 1px solid #000;
+}
