@@ -22,9 +22,9 @@ Students will work in groups to create a simple calculator using jQuery event li
 
     1. the calculator should store 2 separate numbers as variables.
     2. the calculator should store the operation the user chooses as a variable holding a string: '+', '-', '*', '/'.
-    3. when a user clicks increment or decrement buttons it should add one or subtract one from a variable storing that number and update the <h2 class="number"> showing the updated number.
+    3. when a user clicks increment or decrement buttons it should add one or subtract one from a variable storing that number and update the h2 with a class="number" showing the updated number.
     4. When the user clicks the operation buttons it should change the string that is being stored in the operation variable.
-    5. When the user clicks the equals button, the calculator should update a result variable based on the operation choosen and the value of the two numbers. It should then report the result into the <h2 id="result">.
+    5. When the user clicks the equals button, the calculator should update a result variable based on the operation choosen and the value of the two numbers. It should then report the result into the h2 with an id="result".
 
 See a live working example of the simple calculator [here](http://flatiron-school-curriculum.github.io/fe-jquery-simple-calc/)
 
