@@ -19,7 +19,7 @@ Students will work in groups to create a calculator that accepts user input usin
 6. In js/calc.js write the code neccesary to make a functioning calculator.  
 
   The calculator should do the following:  
-
+    1. Be object oriented.
     1. the calculator should take input for 2 separate numbers and 1 operation: '+', '-', '*', '/', and store them as variables.
     2. When the user clicks the equals button, the calculator should update a result variable based on the operation choosen and the value of the two numbers. It should then report the result into the h2 with an id="result". If the user leaves a number field blank or inserts some input that is not a number then h2 with id="result" should instead print the error message: "Sorry, one of those is not a valid number!", or if the operation inserted is not one of the valid accepted operations then the error message should then read "Sorry, not a valid operation!"
 

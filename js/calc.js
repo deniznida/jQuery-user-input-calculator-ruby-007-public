@@ -1,5 +1,8 @@
+'use-strict';
 $(function(){
 
-  // write your solution here.
+  var calculator = new Calculator();
 
 });
+
+// your code here!
