@@ -1,7 +1,7 @@
 ---
-language: javascript, html, css
-tags: js, jquery, switch, if, else, conditional, statement, beginner
-type: lab, challenge
+language: JavaScript, js
+tags: selectors
+type: lab
 resources: 4
 ---
 
