@@ -2,7 +2,7 @@
 language: javascript, html, css
 tags: js, jquery, switch, if, else, conditional, statement, beginner
 type: lab, challenge
-resources: 8
+resources: 4
 ---
 
 # Code Challenge - jQuery User Input Calculator
@@ -31,11 +31,7 @@ ironboard -b # runs also in the browser
 ```
 
 ## Resources
-
- * [MDN - Vars](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
- * [MDN - Switch Statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
- * [MDN - if/Else Statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
- * [MDN - Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)
+US/docs/Web/JavaScript/Reference/Statements/function)
  * [jQuery API - Selectors](http://api.jquery.com/category/selectors/)
  * [jQuery API - Events - Click](http://api.jquery.com/click/)
  * [jQuery API - Text](http://api.jquery.com/text/)
